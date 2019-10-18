@@ -1,7 +1,8 @@
-date,time,activity,description
-12/oct/2019,5:15,Walking,First time walked till OMR road (which is approx 700mts) and came back
-13/oct/2019,5:20,Walking,Extended the walking to approx 2 kms
-14/oct/2019,5:15,Walking,Along with Walk Climbed 10 floors to my home
-15/oct/2019,5:15,Walking,Continued 2 kms walk with 10 floors
-16/oct/2019,5:15,Walking,Continued 2 kms walk with 10 floors
-17/oct/2019,5:25,Gym,Gone to gym after long time. And climbed only 5 floors after that.
+date,time,activity,description,duration
+12/oct/2019,5:15,Walking,First time walked till OMR road (which is approx 700mts) and came back,
+13/oct/2019,5:20,Walking,Extended the walking to approx 2 kms,
+14/oct/2019,5:15,Walking,Along with Walk Climbed 10 floors to my home,
+15/oct/2019,5:15,Walking,Continued 2 kms walk with 10 floors,
+16/oct/2019,5:15,Walking,Continued 2 kms walk with 10 floors,
+17/oct/2019,5:25,Gym,Gone to gym after long time. And climbed only 5 floors after that.,
+18/oct/2019,5:15,Gym,Basic exercises. Climbed 11 floors.,1 hr 15 mins
